@@ -1,0 +1,23 @@
+{
+  "recordId": "3f73c37c-2fea-4c44-b4e3-f68a2c9eb0af",
+  "employeeId": "emp-ismoil",
+  "deviceId": "device-bound-id",
+  "createdAt": "2026-08-11T14:32:10+05:00",
+  "clientCount": 1,
+  "services": [
+    {
+      "serviceId": "hair",
+      "name": "Soch olish",
+      "price": 50000
+    },
+    {
+      "serviceId": "beard",
+      "name": "Soqol",
+      "price": 30000
+    }
+  ],
+  "serviceTotal": 80000,
+  "tip": 10000,
+  "syncedToAdmin": false,
+  "masterRevision": 0
+}

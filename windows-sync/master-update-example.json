@@ -1,0 +1,42 @@
+{
+  "type": "MASTER_UPDATE",
+  "revision": 12,
+  "services": [
+    {
+      "id": "hair",
+      "name": "Soch olish",
+      "price": 55000,
+      "active": true
+    }
+  ],
+  "employees": [
+    {
+      "id": "emp-ismoil",
+      "mobileEnabled": true,
+      "passwordVersion": 4,
+      "deviceBinding": "abc123",
+      "penaltyThisMonth": 20000
+    }
+  ],
+  "metrics": {
+    "todayClients": 48,
+    "monthClients": 849,
+    "yearClients": 9482,
+    "todayRevenue": 2350000,
+    "monthRevenue": 39400000,
+    "yearRevenue": 438600000,
+    "monthNetProfit": 14750000,
+    "yearNetProfit": 162300000
+  },
+  "topEmployees": [
+    {
+      "employeeId": "emp-ismoil",
+      "name": "Ismoil",
+      "clients": 312,
+      "place": 1
+    }
+  ],
+  "top7MonthWeekdays": [],
+  "top7YearWeekdays": [],
+  "top12Months": []
+}
